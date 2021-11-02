@@ -4,6 +4,8 @@
 
 need to have npm
 
+npm install sass
+
 ## Running Front End
 
 cd frontEnd
