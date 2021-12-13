@@ -4,9 +4,9 @@ class database
 {
     // These variables will help to connect with database
     private $hostname = "localhost";
-    private $username = "root";
-    private $password = "";
-    private $dbname = "Music";
+    private $username = "test";
+    private $password = "test";
+    private $dbname = "RandomBandzDev";
 
 
 
